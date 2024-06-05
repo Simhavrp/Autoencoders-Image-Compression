@@ -1,2 +1,2 @@
 # Autoencoders-Image-Compression
- A project demonstrating the use of convolutional autoencoders for efficient compression and reconstruction of traffic sign images .
+This project demonstrates the use of autoencoders for compressing traffic sign images. Autoencoders, a type of neural network, are trained to encode input images into a lower-dimensional representation and then decode them back to the original dimensions. The primary goal of this project is to reduce the storage space required for traffic sign images without significant loss of information, making it efficient for real-time traffic sign recognition systems.
